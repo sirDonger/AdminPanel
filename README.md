@@ -1,3 +1,6 @@
 # AdminPanel
-#Start 
-  run ###'npm install' than run ###'npm start'
+# Start 
+  run 
+  ### 'npm install' 
+  then run 
+  ### 'npm start'
