@@ -1,6 +1,6 @@
 # AdminPanel
 # Start 
   run 
-  ### 'npm install' 
+  ### npm install 
   then run 
-  ### 'npm start'
+  ### npm start
